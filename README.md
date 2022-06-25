@@ -13,8 +13,7 @@ Bir **Class** bir **Interface**'i implements edebilir. Ederse interface'in icind
 
 Bir **Class** bir **Abstract Class**'ı implements edemez.
 
-**:link: [Projeye Ulaşmak İçin Tıklayınız](https://github.com/enuygun-test-automation-bootcamp/homework1-fbusrakarahasan/ImplementExtend)**
-
+**:link: [Projeye Ulaşmak İçin Tıklayınız](https://github.com/enuygun-test-automation-bootcamp/homework1-fbusrakarahasan/tree/main/ImplementExtend)** 
 ```java
 /*
     Enuygun Bootcamp HW-1
@@ -65,7 +64,7 @@ Abstraction yapısı kurularak kullanıcıya yapılacak işlemin **fonksiyonelli
   
 Yani işin özü, soyut bir sınıf kullanmanın temel faydası, birkaç ilgili sınıfı kardeş olarak gruplandırmanıza izin vermesidir. Soyutlama, yazılımın tasarım ve uygulama sürecinin karmaşıklığını azaltmaya yardımcı olur.
 
-**:link: [Projeye Ulaşmak İçin Tıklayınız](https://github.com/enuygun-test-automation-bootcamp/homework1-fbusrakarahasan/Abstraction)**
+**:link: [Projeye Ulaşmak İçin Tıklayınız](https://github.com/enuygun-test-automation-bootcamp/homework1-fbusrakarahasan/tree/main/Abstraction)**
 
 ```java
 /*
